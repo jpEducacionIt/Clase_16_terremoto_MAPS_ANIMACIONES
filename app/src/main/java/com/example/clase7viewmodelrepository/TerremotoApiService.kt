@@ -6,7 +6,7 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.http.GET
 
 interface TerremotoAPIService {
-    @GET (value = "all_month.geojson")
+    @GET (value = "all_week.geojson")
     suspend fun getListaTerremotosSemana(): Response<TerremotoJsonResponse>
 }
 

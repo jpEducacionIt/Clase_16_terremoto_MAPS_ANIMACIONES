@@ -2,4 +2,5 @@
     <string name="app_name">Clase7ViewModelRepository</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoianBkYWNydXoiLCJhIjoiY2w2YmoxMXFhMDIxZTNkcWs1b2Y5ZnN6dCJ9.EMrCfGRLvl6EMZEySJ6VPA</string>
 </resources>

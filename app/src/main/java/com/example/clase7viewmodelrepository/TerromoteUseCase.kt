@@ -1,5 +1,6 @@
 package com.example.clase7viewmodelrepository
 
+
 class TerremotoUseCase {
     fun parseAllTerremotos(features: MutableList<Feature>): MutableList<Terremoto> {
         val lista = mutableListOf<Terremoto>()
